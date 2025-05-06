@@ -34,3 +34,6 @@ lerna-debug.log*
 !.vscode/extensions.json
 
 *.env
+
+# Docker
+/postgres_data
